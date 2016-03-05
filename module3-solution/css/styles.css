@@ -95,7 +95,6 @@ ul hr {
 }
 
 #main-text p {
-
   color: white;
   padding-left: 10px;
   padding-right: 10px;
@@ -111,6 +110,14 @@ ul hr {
   margin-right: 5px;
   margin-left: 5px;
 }
+
+/*
+.col-xs-12 {
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+}*/
+
 
 @media (min-width: 768px)  {
   .navbar-header {
